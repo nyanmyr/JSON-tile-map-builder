@@ -33,9 +33,61 @@ void playingScene
 		return;
 	}
 
-	std::string loadedString = jsonData["object1"]["name"];
+	for (const auto& obj : jsonData["tilemap"])
+	{
+		std::string textureString = obj["texture"];
+		//std::cout << "textureString: " << textureString << "\n";
+		
+		Enum::Texture loadedTexture = Enum::Texture::TEXTURE_PLACEHOLDER;
 
-	std::cout << "test: " << loadedString << "\n";
+		// meant to be extensible
+		if (textureString == "TEXTURE_PLACEHOLDER")
+		{
+			loadedTexture = Enum::Texture::TEXTURE_PLACEHOLDER;
+		} 
+		else
+		{
+			loadedTexture = Enum::Texture::TEXTURE_PLACEHOLDER;
+		}
+
+		double posXDouble = obj["posX"];
+		double posYDouble = obj["posY"];
+		double sizeXDouble = obj["sizeX"];
+		double sizeYDouble = obj["sizeY"];
+
+		std::string colorString = obj["color"];
+		sf::Color loadedColor = sf::Color::White;
+
+		// again meant to be extensible
+		if (colorString == "White")
+		{
+			loadedColor = sf::Color::White;
+		}
+		else if (colorString == "Red")
+		{
+			loadedColor = sf::Color::Red;
+		}
+		else
+		{
+			loadedColor = sf::Color::White;
+		}
+
+		makeObject
+		(
+			loadedTexture,
+			sf::Vector2f(
+				posXDouble,
+				posYDouble
+			),
+			sf::Vector2f(
+				sizeXDouble,
+				sizeYDouble
+			),
+			loadedColor
+		);
+		//std::cout << "test: " << "\n";
+		//std::string loadedString = jsonData["object1"]["name"];
+	}
 
 	NacreCoordinator& nc = NacreCoordinator::getInstance();
 

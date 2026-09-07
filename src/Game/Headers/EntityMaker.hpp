@@ -28,4 +28,11 @@ Entity makeButton
 	const sf::Color col
 );
 Entity makeLoadedTexturesContainer();
+Entity& makeObject
+(
+	Enum::Texture texture,
+	sf::Vector2f pos,
+	sf::Vector2f size,
+	const sf::Color col
+);
 #endif
