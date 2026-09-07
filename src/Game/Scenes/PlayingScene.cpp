@@ -1,6 +1,14 @@
 #include <SFML/Graphics.hpp>
+#include <nlohmann/json.hpp>
+
 #include "../src/Game/Headers/GameManager.hpp"
 #include "../src/Game/Headers/Scenes.hpp"
+
+#include <fstream>
+#include <iostream>
+#include <string>
+
+using JSON = nlohmann::json;
 
 void playingScene
 (
@@ -8,6 +16,27 @@ void playingScene
 	sf::Font& font
 )
 {
+	std::ifstream file(RESOURCES_PATH "testing.json");
+
+	if (!file.is_open())
+	{
+		std::cerr << "Error: Failed to open testing.json.\n";
+		return;
+	}
+
+	JSON jsonData;
+	try {
+		jsonData = JSON::parse(file);
+	}
+	catch (const JSON::parse_error& e) {
+		std::cerr << "JSON Parsing Error: " << e.what() << "\n";
+		return;
+	}
+
+	std::string loadedString = jsonData["object1"]["name"];
+
+	std::cout << "test: " << loadedString << "\n";
+
 	NacreCoordinator& nc = NacreCoordinator::getInstance();
 
 	// game state variables
