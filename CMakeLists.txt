@@ -30,6 +30,16 @@ FetchContent_Declare(SFML
 )
 FetchContent_MakeAvailable(SFML)
 
+# --- nlohmann/json Dependency (FetchContent) ---
+FetchContent_Declare(json
+    GIT_REPOSITORY https://github.com/nlohmann/json.git
+    GIT_TAG v3.11.3 # Latest stable release
+    GIT_SHALLOW ON
+    EXCLUDE_FROM_ALL
+    SYSTEM
+)
+FetchContent_MakeAvailable(json)
+
 # --- Sources & Executable ---
 # DON'T ADD THE SOURCES BY HAND, they are already added with this macro
 file(GLOB_RECURSE MY_SOURCES CONFIGURE_DEPENDS "${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp")
@@ -81,8 +91,9 @@ target_link_libraries(${CMAKE_PROJECT_NAME} PRIVATE
     SFML::Graphics 
     SFML::Window 
     SFML::System 
-    SFML::Audio 
+    # SFML::Audio 
     # SFML::Network
+    nlohmann_json::nlohmann_json
 )
 
 # --- IDE Integration ---
