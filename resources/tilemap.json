@@ -1,2404 +1,2404 @@
 {
   "tilemap": [
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 20.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 60.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 100.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 140.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 180.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 220.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 260.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 300.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 340.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 380.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 420.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 460.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 500.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 540.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 580.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 620.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 660.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 700.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 740.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 780.0,
       "posY": 20.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 20.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 60.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 100.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 140.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 180.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 220.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 260.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 300.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 340.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 380.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 420.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 460.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 500.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 540.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 580.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 620.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 660.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 700.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 740.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 780.0,
       "posY": 60.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 20.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 60.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 100.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 140.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 180.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 220.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 260.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 300.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 340.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 380.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 420.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 460.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 500.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 540.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 580.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 620.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 660.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 700.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 740.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 780.0,
       "posY": 100.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 20.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 60.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 100.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 140.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 180.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 220.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 260.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 300.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 340.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 380.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 420.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 460.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 500.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 540.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 580.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 620.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 660.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 700.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 740.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 780.0,
       "posY": 140.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 20.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 60.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 100.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 140.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 180.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 220.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 260.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 300.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 340.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 380.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 420.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 460.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 500.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 540.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 580.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 620.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 660.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 700.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 740.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 780.0,
       "posY": 180.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 20.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 60.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 100.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 140.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 180.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 220.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 260.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 300.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 340.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 380.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 420.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 460.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 500.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 540.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 580.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 620.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 660.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 700.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 740.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 780.0,
       "posY": 220.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 20.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 60.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 100.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 140.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 180.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 220.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 260.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 300.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 340.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 380.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 420.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 460.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 500.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 540.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 580.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 620.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 660.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 700.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 740.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 780.0,
       "posY": 260.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 20.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 60.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 100.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 140.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 180.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 220.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 260.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 300.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 340.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 380.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 420.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 460.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 500.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 540.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 580.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 620.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 660.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 700.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 740.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 780.0,
       "posY": 300.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 20.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 60.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 100.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 140.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 180.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 220.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 260.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 300.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 340.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 380.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 420.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 460.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 500.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 540.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 580.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 620.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 660.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 700.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 740.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 780.0,
       "posY": 340.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 20.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 60.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 100.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 140.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 180.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 220.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 260.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 300.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 340.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 380.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 420.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 460.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 500.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 540.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 580.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 620.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 660.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 700.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 740.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 780.0,
       "posY": 380.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 20.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 60.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 100.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 140.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 180.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 220.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 260.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 300.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 340.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 380.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 420.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 460.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 500.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 540.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 580.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 620.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 660.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 700.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 740.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 780.0,
       "posY": 420.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 20.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 60.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 100.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 140.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 180.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 220.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 260.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 300.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 340.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 380.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 420.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 460.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 500.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 540.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 580.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 620.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 660.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 700.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 740.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 780.0,
       "posY": 460.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 20.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 60.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 100.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 140.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 180.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 220.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 260.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 300.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 340.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 380.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 420.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 460.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 500.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 540.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 580.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 620.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 660.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 700.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 740.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 780.0,
       "posY": 500.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 20.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 60.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 100.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 140.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 180.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 220.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 260.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 300.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 340.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 380.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 420.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 460.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 500.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 540.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 580.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 620.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 660.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 700.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 740.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 780.0,
       "posY": 540.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 20.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 60.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 100.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 140.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 180.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 220.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 260.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 300.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 340.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 380.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 420.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 460.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 500.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 540.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 580.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 620.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 660.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 700.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "White",
       "posX": 740.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "White"
+      "texture": "TEXTURE_PLACEHOLDER"
     },
     {
-      "texture": "TEXTURE_PLACEHOLDER",
+      "color": "Red",
       "posX": 780.0,
       "posY": 580.0,
       "sizeX": 40.0,
       "sizeY": 40.0,
-      "color": "Red"
+      "texture": "TEXTURE_PLACEHOLDER"
     }
   ]
 }

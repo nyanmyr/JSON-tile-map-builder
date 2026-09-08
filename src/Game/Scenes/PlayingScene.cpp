@@ -7,6 +7,8 @@
 #include <fstream>
 #include <iostream>
 #include <string>
+#include <vector>
+#include <iomanip>
 
 using JSON = nlohmann::json;
 
@@ -16,22 +18,24 @@ void playingScene
 	sf::Font& font
 )
 {
-	std::ifstream file(RESOURCES_PATH "testing.json");
+	std::ifstream read(RESOURCES_PATH "tilemap.json");
 
-	if (!file.is_open())
+	if (!read.is_open())
 	{
-		std::cerr << "Error: Failed to open testing.json.\n";
+		std::cerr << "Error: Failed to open tilemap.json.\n";
 		return;
 	}
 
 	JSON jsonData;
 	try {
-		jsonData = JSON::parse(file);
+		jsonData = JSON::parse(read);
 	}
 	catch (const JSON::parse_error& e) {
 		std::cerr << "JSON Parsing Error: " << e.what() << "\n";
 		return;
 	}
+
+	std::vector<Entity> tiles{};
 
 	for (const auto& obj : jsonData["tilemap"])
 	{
@@ -72,22 +76,27 @@ void playingScene
 			loadedColor = sf::Color::White;
 		}
 
-		makeObject
+		tiles.emplace_back
 		(
-			loadedTexture,
-			sf::Vector2f(
-				posXDouble,
-				posYDouble
-			),
-			sf::Vector2f(
-				sizeXDouble,
-				sizeYDouble
-			),
-			loadedColor
+			makeObject
+			(
+				loadedTexture,
+				sf::Vector2f(
+					posXDouble,
+					posYDouble
+				),
+				sf::Vector2f(
+					sizeXDouble,
+					sizeYDouble
+				),
+				loadedColor
+			)
 		);
 		//std::cout << "test: " << "\n";
 		//std::string loadedString = jsonData["object1"]["name"];
 	}
+
+	//std::cout << "tiles: " << static_cast<int>(tiles.size())<< "\n";
 
 	NacreCoordinator& nc = NacreCoordinator::getInstance();
 
@@ -167,5 +176,18 @@ void playingScene
 			renderQueue
 		);
 		window.display();
+	}
+
+	std::ofstream write(RESOURCES_PATH "tilemap.json");
+
+	if (write.is_open())
+	{
+		write << std::setw(4) << jsonData;
+		write.close();
+		std::cout << "JSON file successfully created.\n";
+	}
+	else
+	{
+		std::cerr << "Error: failed to open file for writing.\n";
 	}
 }
