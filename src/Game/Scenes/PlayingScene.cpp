@@ -67,9 +67,33 @@ void playingScene
 		{
 			loadedColor = sf::Color::White;
 		}
+		else if (colorString == "Black")
+		{
+			loadedColor = sf::Color::Black;
+		}
 		else if (colorString == "Red")
 		{
 			loadedColor = sf::Color::Red;
+		}
+		else if (colorString == "Blue")
+		{
+			loadedColor = sf::Color::Blue;
+		}
+		else if (colorString == "Cyan")
+		{
+			loadedColor = sf::Color::Cyan;
+		}
+		else if (colorString == "Green")
+		{
+			loadedColor = sf::Color::Green;
+		}
+		else if (colorString == "Magenta")
+		{
+			loadedColor = sf::Color::Magenta;
+		}
+		else if (colorString == "Yellow")
+		{
+			loadedColor = sf::Color::Yellow;
 		}
 		else
 		{
